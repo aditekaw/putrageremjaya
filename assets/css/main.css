@@ -962,7 +962,7 @@ section {
 .projects .portfolio-content .portfolio-info .preview-link,
 .projects .portfolio-content .portfolio-info .details-link {
   position: absolute;
-  left: calc(50% - 40px);
+  left: calc(50% - 20px);
   font-size: 26px;
   top: calc(50% - 14px);
   color: #fff;
