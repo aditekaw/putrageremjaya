@@ -207,13 +207,13 @@ section {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #fff;
+  border: 6px solid rgb(255, 255, 255);
   border-color: var(--color-primary) transparent var(--color-primary) transparent;
   border-radius: 50%;
   width: 60px;
   height: 60px;
-  -webkit-animation: animate-preloader 1.5s ease infinite;
-  animation: animate-preloader 1.5s ease infinite;
+  -webkit-animation: animate-preloader 2s ease infinite;
+  animation: animate-preloader 2s ease infinite;
 }
 
 @-webkit-keyframes animate-preloader {
