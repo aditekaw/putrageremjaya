@@ -183,7 +183,7 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
   /**
-   * Initiate pURE cOUNTER
+   * Initiate Pure Counter
    */
   new PureCounter();
 
